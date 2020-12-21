@@ -1,0 +1,22 @@
+{
+  "name": "react-non-react",
+  "version": "1.0.0",
+  "description": "How to use react in a non-react app. This repo is more specifically will integrate react into plain html/css/js app.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junaidahmed501/react-in-non-react-ap.git"
+  },
+  "author": "junaidahmed501@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junaidahmed501/react-in-non-react-ap/issues"
+  },
+  "homepage": "https://github.com/junaidahmed501/react-in-non-react-ap#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
