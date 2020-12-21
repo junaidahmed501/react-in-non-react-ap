@@ -8,3 +8,7 @@ Steps:
 1. clone the repo
 2. run `npm init -y` & then `npm install babel-cli@6 babel-preset-react-app@3`
 3. run `npx babel --watch src --out-dir public --presets react-app/prod`
+
+
+Other helpful resources
+https://medium.com/@sevenleaps/using-react-components-in-non-react-websites-12fb7d71b63f
