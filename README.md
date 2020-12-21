@@ -1,4 +1,4 @@
-# react-in-non-react-ap
+# react in a non-react app
 How to use react in a non-react app. This repo is more specifically will integrate react into plain html/css/js app.
 
 
