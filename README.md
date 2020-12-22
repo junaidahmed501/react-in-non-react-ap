@@ -11,7 +11,7 @@ Steps:
 
 
 Other helpful resources
-https://reactjs.org/docs/add-react-to-a-website.html
-https://medium.com/@sevenleaps/using-react-components-in-non-react-websites-12fb7d71b63f
-https://github.com/sevenleaps/react-webpack-wrapper-example
-https://stackoverflow.com/a/43470518/4109794
+1. https://reactjs.org/docs/add-react-to-a-website.html
+2. https://medium.com/@sevenleaps/using-react-components-in-non-react-websites-12fb7d71b63f
+3. https://github.com/sevenleaps/react-webpack-wrapper-example
+4. https://stackoverflow.com/a/43470518/4109794
