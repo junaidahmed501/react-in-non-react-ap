@@ -6,7 +6,7 @@ Followed this guide https://reactjs.org/docs/add-react-to-a-website.html to crea
 
 Steps:
 1. clone the repo
-2. run `npm init -y` & then `npm install babel-cli@6 babel-preset-react-app@3`
+2. run `npm install`
 3. run `npx babel --watch src --out-dir public --presets react-app/prod`
 
 
