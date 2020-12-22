@@ -15,3 +15,4 @@ Other helpful resources
 2. https://medium.com/@sevenleaps/using-react-components-in-non-react-websites-12fb7d71b63f
 3. https://github.com/sevenleaps/react-webpack-wrapper-example
 4. https://stackoverflow.com/a/43470518/4109794
+5. https://reactjs.org/docs/integrating-with-other-libraries.html
